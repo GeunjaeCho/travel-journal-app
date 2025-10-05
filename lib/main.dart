@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart'; // 지역화 설정용
 import 'home_screen.dart'; // 홈화면
-import 'write_screen.dart'; // 글쓰기 화면 (WriteScreen에서 사용하기 위해 import만 해두면 됨)
-
+import 'write_screen.dart'; // 글쓰기 화면
 void main() {
   runApp(MyApp());
 }
